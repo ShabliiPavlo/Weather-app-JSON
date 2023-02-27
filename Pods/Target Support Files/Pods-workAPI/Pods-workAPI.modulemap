@@ -1,0 +1,6 @@
+framework module Pods_workAPI {
+  umbrella header "Pods-workAPI-umbrella.h"
+
+  export *
+  module * { export * }
+}
